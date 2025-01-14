@@ -70,3 +70,13 @@ mysql -u username -p nama_database < fast_print_test.sql
 ```
 
 
+## Screenshots
+
+### Product View
+![Product View](screenshoots/product-index.png)
+
+### Category View
+![Product View](screenshoots/category-index.png)
+
+### Status View
+![Status View](screenshoots/status-index.png)
